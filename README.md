@@ -1,6 +1,6 @@
 # Hi, I'm Patrick 👋
 
-I'm a Computer Science & Mathematics student passionate about machine learning, app development, and impactful tech.
+I'm a Computer Science & Mathematics student passionate about app development, machine learning, and impactful tech.
 
 ## 🔧 Projects
 
