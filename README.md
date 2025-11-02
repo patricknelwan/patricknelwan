@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Patrick 👋
 
-<!--
-**patricknelwan/patricknelwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science & Mathematics student passionate about machine learning, app development, and impactful tech.
 
-Here are some ideas to get you started:
+## 🔧 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Food n Jam](https://github.com/patricknelwan/food-n-jam) 🍽️ — Connects culinary experiences with music (React Native)
+- [PetDia](https://github.com/patricknelwan/petdia) 🐾 — Halodoc-like service site for pets (Laravel)
+- [Matopoei](https://github.com/patricknelwan/matopoei) 📚 — Comic book reader app for iOS/iPadOS (Swift)
+- [Notchtify](https://github.com/patricknelwan/notchtify) 🎵 — Interactive notch app for Mac, shows Spotify info (Swift)
+
+## 🧠 Skills
+
+- Languages: Swift, Java, Python, JavaScript, HTML, SQL, C, php  
+- Frameworks: SwiftUI, Next.js, React Native, Laravel  
+- Tools: Xcode, Git, Github, VSCode, Cursor  
+- Databases: Supabase, PostgreSQL  
+- Tech: Full-Stack Development, ML, iOS/Web Dev
+
+## 📬 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/patrick-nelwan-080880258)
+- [Resume](https://drive.google.com/file/d/1NJ7q19QfaE2vqFVdhSURDTWR-c5asJxL/view?usp=sharing
+)
+- Email: patrick.nelwan120@gmail.com
