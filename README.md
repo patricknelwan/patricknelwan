@@ -20,4 +20,3 @@ I'm a Computer Science & Mathematics student passionate about app development, m
 - Frameworks: SwiftUI, Next.js, React Native, Laravel  
 - Tools: Xcode, Git, Github, VSCode, Cursor  
 - Databases: Supabase, PostgreSQL  
-- Tech: Full-Stack Development, ML, iOS/Web Dev
