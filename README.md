@@ -9,10 +9,10 @@ I'm a Computer Science & Mathematics student passionate about app development, m
 
 ## 🔧 Projects
 
+- [Muvee](https://github.com/patricknelwan/muvee) 🍿 — Movie streaming app for iOS/iPadOS (Swift)
 - [Food n Jam](https://github.com/patricknelwan/food-n-jam) 🍽️ — Connects culinary experiences with music (React Native)
 - [PetDia](https://github.com/patricknelwan/petdia) 🐾 — Halodoc-like service site for pets (Laravel)
 - [Matopoei](https://github.com/patricknelwan/matopoei) 📚 — Comic book reader app for iOS/iPadOS (Swift)
-- [Muvee](https://github.com/patricknelwan/muvee) 🍿 — Movie streaming app for iOS/iPadOS (Swift)
 
 ## 🧠 Skills
 
