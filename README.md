@@ -16,7 +16,7 @@ I'm a Computer Science & Mathematics student passionate about app development, m
 
 ## 🧠 Skills
 
-- Languages: Swift, Java, Python, JavaScript, HTML, SQL, C, php  
-- Frameworks: SwiftUI, Next.js, React Native, Laravel  
-- Tools: Xcode, Git, Github, VSCode, Cursor  
-- Databases: Supabase, PostgreSQL  
+- Languages: Swift, Java, Python, JavaScript, SQL, PHP, C, HTML/CSS
+- Frameworks: SwiftUI, React Native, Next.js, Laravel
+- Tools: Git, GitHub, Xcode, VS Code, JetBrains IDEs, Supabase
+- Databases: PostgreSQL  
